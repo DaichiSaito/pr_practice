@@ -10,4 +10,9 @@ members: [
     twitter: "daidai3110",
     github: "DaichiSaito"
   }
+    naoking: {
+    bio: "スキルを身につけたくプログラミングをはじめました。サーバーサイドはRails以外触ったことはありません。なんでも興味があるのでなんでもやってみたいところです。",
+    hobby: ["プログラミング", "サウナ", "音楽"]
+    github: "Naoki014"
+  }
 ]
