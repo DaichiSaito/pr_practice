@@ -15,4 +15,9 @@ members: [
     hobby: ["プログラミング", "サウナ", "音楽"]
     github: "Naoki014"
   }
+  saeko: {
+    bio: "HTMLやCSSを少しかじった延長でプログラミングに興味を持つようになりました。Railsを習得して成長していけるように頑張ります！",
+    hobby: ["プログラミング", "ネイル"]
+    github: "saeyama"
+  }
 ]
