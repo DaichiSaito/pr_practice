@@ -39,6 +39,11 @@ members: [
      bio: "人間にはできないことを可能にしてくれる。そんなプログラミングという存在に魅力を感じ、学習を始めました。よろしくお願いいたします。",
      hobby: ["guitar", "j-pop","walking"],
      github: "RyoichiHirose"
+  },
+   Kamehara:{
+     bio: "遅ればせながらプルリクしてみました。就職にむけて頑張りたいと思います",
+     hobby: ["自転車", "音楽鑑賞"],
+     github: "Kamehara93"
   }
 ]
 ```
