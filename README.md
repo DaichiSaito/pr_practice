@@ -40,5 +40,10 @@ members: [
      hobby: ["guitar", "j-pop","walking"],
      github: "RyoichiHirose"
   }
+  taiki: {
+    bio: "大学でプログラミングの面白さを知り、エンジニアになることを決意しました。日々の学習を頑張ります！",
+    hobby: ["プログラミング", "ベース"],
+    github: "telva0527",
+  },
 ]
 ```
