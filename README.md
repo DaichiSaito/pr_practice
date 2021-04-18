@@ -61,5 +61,11 @@ members: [
       github: "telva0527"
     }
   },
+    kamehara: {
+      bio: "プルリクはこれでいいですか？",
+      hobby: ["自転車", "音楽鑑賞"],
+      github: "kamehara93"
+    }
+  }, 
 ]
 ```
