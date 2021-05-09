@@ -69,5 +69,13 @@ members: [
       github: "nagaoka1166"
     }
   },
+  {
+    Kyafuso:
+    {
+      bio: "IT領域での新規事業の立ち上げのコンサルをしています。自社サービス開発で自分自身もコードを書きたくて学習を始めました。",
+      hobby: ["Kpop", "カラオケ"],
+      github: "kyafuso"
+    }
+  },
 ]
 ```
