@@ -85,5 +85,13 @@ members: [
       github: "genkimatsubara"
     }
   },
+  {
+    Yudai:
+    {
+      bio: "世の中に新しい価値を生み出して何かでかいことをしたい。",
+      hobby: ["アニメ", "ハンドボール"],
+      github: "YudaiShimizu-hand"
+    }
+  },
 ]
 ```
