@@ -77,5 +77,13 @@ members: [
       github: "kyafuso"
     }
   },
+  {
+    gen:
+    {
+      bio: "小さし頃からものを作るのが好きだったのでエンジニアになって、世の中を便利にするようなものを作りたい。",
+      hobby: ["サッカー", "漫画"],
+      github: "genkimatsubara"
+    }
+  },
 ]
 ```
