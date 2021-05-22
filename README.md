@@ -93,5 +93,13 @@ members: [
       github: "YudaiShimizu-hand"
     }
   },
+  {
+  Atsu:
+  {
+    bio: "自分の作ったプロダクトで人の生活を豊かにしたい",
+    hobby: ["野球観戦", "読書"],
+    github: "Atsu77"
+  }
+},
 ]
 ```
