@@ -100,6 +100,14 @@ members: [
     hobby: ["野球観戦", "読書"],
     github: "Atsu77"
   }
-},
+  },
+  {
+  Atom:
+  {
+    bio: "エンジニアになって自由な暮らしがしたい",
+    hobby: ["サッカー", "ギター"],
+    github: "Atomu-Ishida"
+  }
+  },
 ]
 ```
