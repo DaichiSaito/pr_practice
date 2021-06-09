@@ -115,5 +115,13 @@ members: [
       github: "diagonal-m"
     }
   },
+  {
+    Atom:
+    {
+      bio: "静岡で大学生してます！将来は人の役に立つプロダクトを作りたいです！",
+      hobby: ["サッカー", "筋トレ"],
+      github: "Atomu-Ishida"
+    }
+  },
 ]
 ```
