@@ -122,5 +122,12 @@ members: [
       github: "miyaichi-wq"
     }
   },
+  {
+    Atomu: {
+      bio: "静岡の大学の二回生です！将来はエンジニアになって人の役に立つプロダクトを作りたいです！",
+      hobby: ["サッカー", "筋トレ"],
+      github: "Atomu-Ishida"
+    }
+  },
 ]
 ```
