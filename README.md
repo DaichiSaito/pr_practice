@@ -136,5 +136,12 @@ members: [
       github: "yuprog11"
     }
   },
+  {
+    Shizuka: {
+      bio: "スキルを身につけるべくプログラミング学習をはじめました。人の生活を豊かにできるものづくりをしたいです",
+      hobby: ["筋トレ", "漫画"],
+      github: "shizuka-yamamoto"
+    }
+  },
 ]
 ```
