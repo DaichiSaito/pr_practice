@@ -143,5 +143,12 @@ members: [
       github: "shizuka-yamamoto"
     }
   },
+  {
+    Junnosuke: {
+      bio: "静岡で国を守ってます。プログラミングには無限の可能性を感じます。",
+      hobby: ["ランニング", "スポーツ観戦"],
+      github: "hata-junnosuke"
+    }
+  },
 ]
 ```
