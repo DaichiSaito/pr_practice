@@ -150,14 +150,13 @@ members: [
       github: "hata-junnosuke"
     }
   },
-  
-  {
-    genryongfa: {
+   {
+    genryonfa: {
       bio: "20歳フリーターです。エンジニアなっていろんな人に使ってもらえるサービスを作りたいです。",
       hobby: ["サッカー", "筋トレ"],
       github: "genryong"
-     }
-   },
+    }
+  },
 ]
 
 ```
