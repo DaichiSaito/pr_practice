@@ -150,5 +150,12 @@ members: [
       github: "hata-junnosuke"
     }
   },
+  {
+    SatoshiTodaka: {
+      bio: "28歳会社員です。業務の最適化からプログラミングに興味を持ちました。人の役に立つ・生活を変えるサービスを作りたいです。",
+      hobby: ["料理", "筋トレ", "ランニング",　"登山" ],
+      github: "satoshitodaka"
+    }
+  },
 ]
 ```
