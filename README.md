@@ -150,5 +150,12 @@ members: [
       github: "hata-junnosuke"
     }
   },
+  {
+    Satoshi: {
+      bio: "28歳会社員で、総務事務の仕事をしています。業務の最適化からプログラミングに興味を持ちました。人の役に立つサービスを作りたいです。",
+      hobby: ["料理", "筋トレ", "ランニング"],
+      github: "satoshitodaka"
+    }
+  },
 ]
 ```
