@@ -176,8 +176,8 @@ members: [
       github: "genryong"
     }
   },
-	{
-    genryonfa: {
+　{
+    Ikeda: {
       bio: "群馬のフリーターです。何か手に職をつけたくエンジニアになって誰かの役に立つサービスを作りたいです。",
       hobby: ["ゲーム", "運動"],
       github: "shu0"
