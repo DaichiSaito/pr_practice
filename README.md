@@ -176,6 +176,14 @@ members: [
       github: "genryong"
     }
   },
+	{
+    genryonfa: {
+      bio: "群馬のフリーターです。何か手に職をつけたくエンジニアになって誰かの役に立つサービスを作りたいです。",
+      hobby: ["APEX LEGENDSというゲーム", "筋トレ"],
+      github: "shu0"
+    }
+  },
+
 ]
 
 ```
