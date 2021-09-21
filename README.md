@@ -183,4 +183,11 @@ members: [
       github: "shu0"
     }
   },
+  {
+    jin: {
+      bio: "オリジナルサービスが作りたい大学1年生です。可能ならIT業界に就職したいです。",
+      hobby: ["チェス", "読書"],
+      github: "higakijin"
+    }
+  }
 ```
