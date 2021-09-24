@@ -195,7 +195,7 @@ members: [
       github: "JAMChannel"
     }
   }
-  Jam: {
+  Chimu: {
       bio: "自分のアイデアを形にして、便利なサービスを作れるようになりたいです",
       hobby: ["ゲーム", "旅行","映画"],
       github: "Chiimmu"
