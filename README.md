@@ -194,5 +194,10 @@ members: [
       hobby: ["配信", "バスケ","旅行"],
       github: "JAMChannel"
     }
+    Chimu: {
+      bio: "自分のアイデアを形にして、たくさんの人に使ってもらえるサービスを作りたい",
+      hobby: ["ゲーム", "映画","旅行"],
+      github: "Chiimmu"
+    }
   }
 ```
