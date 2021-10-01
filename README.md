@@ -199,5 +199,12 @@ members: [
       hobby: ["ゲーム", "映画","旅行"],
       github: "Chiimmu"
     }
-  }
+  },
+  {
+    Yusuke: {
+      bio: "21歳大学４年生です。エンジニアとして働けるようになりたいです。",
+      hobby: ["ラーメン", "散歩"],
+      github: "yusukedayo"
+    }
+  },
 ```
