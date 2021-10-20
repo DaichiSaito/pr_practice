@@ -199,5 +199,8 @@ members: [
       hobby: ["ゲーム", "映画","旅行"],
       github: "Chiimmu"
     }
-  }
-```
+    sunagawa: {
+      bio: "来年、エンジニア転職を目指しています。宜しくお願い致します！",
+      hobby: ["アニメ","映画"],
+      github: "suna-kawa"
+    }
