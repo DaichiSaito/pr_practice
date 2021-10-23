@@ -203,7 +203,6 @@ members: [
       hobby: ["ゲーム", "映画","旅行"],
       github: "Chiimmu"
     }
-<<<<<<< HEAD
   },
   {  
     sunagawa: {
@@ -213,4 +212,3 @@ members: [
     }
   },  
 ```
->>>>>>> parent of 9f78fe5 (自己紹介の追加)
