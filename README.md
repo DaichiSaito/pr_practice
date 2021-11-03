@@ -220,4 +220,10 @@ members: [
       github: "keit1722"
     }
   },
+  kouta: {
+      bio: "わからないところだらけですが、頑張ります",
+      hobby: ["海外サッカー", "野球"],
+      github: "koutagaim"
+    }
+  },
 ```
