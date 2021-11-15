@@ -220,4 +220,12 @@ members: [
       github: "keit1722"
     }
   },
+  {
+    hide: {
+      bio: "努力が好きなので引き続き頑張ります！",
+      hobby: ["サッカー", "旅行","料理"],
+      github: "hide-thrive"
+    }
+  },
+]
 ```
