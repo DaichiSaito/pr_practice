@@ -227,4 +227,5 @@ members: [
       github: "hide-thrive"
     }
   },
+]
 ```
