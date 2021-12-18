@@ -234,5 +234,12 @@ members: [
       github: "Shun712"
     }
   },
+  {
+    maki: {
+      bio: "SIerからweb系に転職します。よろしくお願いします",
+      hobby: ["trobone", "読書"],
+      github: "syarikim"
+    }
+  },
 ]
 ```
