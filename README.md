@@ -241,5 +241,12 @@ members: [
       github: "syarikim"
     }
   },
+  {
+    iida: {
+      bio: "大阪在住でエンジニアへの転職を目指しております。よろしくお願いします！",
+      hobby: ["プログラミング", "麻雀", "サッカー"],
+      github: "hirohiroiida"
+    }
+  },
 ]
 ```
