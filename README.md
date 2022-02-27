@@ -248,5 +248,12 @@ members: [
       github: "hirohiroiida"
     }
   },
+  {
+    ankichi: {
+      bio: "Railsエンジニア2年目です！現場で使える力をつけるためにも頑張ります！",
+      hobby: ["カラオケ", "ピアノ"],
+      github: "An39nA0219"
+    }
+  },
 ]
 ```
