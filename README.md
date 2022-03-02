@@ -255,5 +255,12 @@ members: [
       github: "An39nA0219"
     }
   },
+  {
+    takao: {
+      bio: "Webディレクターをしています！エンジニア転職のためにも頑張ります！",
+      hobby: ["映画鑑賞", "水泳"],
+      github: "Takao-Yamasaki"
+    }
+  }
 ]
 ```
