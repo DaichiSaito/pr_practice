@@ -261,6 +261,13 @@ members: [
       hobby: ["映画鑑賞", "水泳"],
       github: "Takao-Yamasaki"
     }
+  },
+  {
+    yukihiko: {
+      bio: "SREでAWSのエンジニアをしてます！アプリ側のスキルを伸ばすため頑張ります！",
+      hobby: ["マラソン", "バイオリン"],
+      github: "Hikoyuki"
+    }
   }
 ]
 ```
