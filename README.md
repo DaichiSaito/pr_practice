@@ -268,6 +268,13 @@ members: [
       hobby: ["マラソン", "バイオリン"],
       github: "Hikoyuki"
     }
+  },
+  {
+    mymt: {
+      bio: "エンジニアに転職できるように頑張ります",
+      hobby: ["筋トレ"],
+      github: "gyara658"
+    }
   }
 ]
 ```
