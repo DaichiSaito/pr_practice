@@ -298,6 +298,6 @@ members: [
       hobby: ["読書", "お菓子作り"]
       github: "myhearisranch"
     }
-   },
+  },
 ]
 ```
