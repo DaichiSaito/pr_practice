@@ -292,5 +292,13 @@ members: [
       github: "nomos244"
     }
   },
+  {
+    doushi: {
+        bio: "Railsエンジニアを目指します！", 
+      hobby: ["散歩", "ネット", "食べ歩き"],
+     github: "maiyui06020206"
+    }
+  },
 ]
+
 ```
