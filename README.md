@@ -294,9 +294,9 @@ members: [
   },
   {
     doushi: {
-        bio: "Railsエンジニアを目指します！", 
+      bio: "Railsエンジニアを目指します！", 
       hobby: ["散歩", "ネット", "食べ歩き"],
-     github: "maiyui06020206"
+      github: "maiyui06020206"
     }
   },
 ]
