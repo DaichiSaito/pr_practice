@@ -299,6 +299,13 @@ members: [
       github: "maiyui06020206"
     }
   },
+    {
+    mai: {
+      bio: "Railsエンジニアを目指して頑張ります！", 
+      hobby: ["ヨガ", "韓ドラ鑑賞", "ウェイクボード"],
+      github: "mai-kobayashi23"
+    }
+  },
 ]
 
 ```
