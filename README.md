@@ -299,6 +299,13 @@ members: [
       github: "maiyui06020206"
     }
   },
+  {
+    sarii: {
+      bio: "未経験からエンジニアへの転職を目指しています", 
+      hobby: ["早起き", "散歩"],
+      github: "sarii0213"
+    }
+  },
 ]
 
 ```
