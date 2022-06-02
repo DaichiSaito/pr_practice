@@ -299,11 +299,17 @@ members: [
       github: "maiyui06020206"
     }
   },
-    {
+  {
     mai: {
       bio: "Railsエンジニアを目指して頑張ります！", 
       hobby: ["ヨガ", "韓ドラ鑑賞", "ウェイクボード"],
       github: "mai-kobayashi23"
+  },
+  {
+    sarii: {
+      bio: "未経験からエンジニアへの転職を目指しています", 
+      hobby: ["早起き", "散歩"],
+      github: "sarii0213"
     }
   },
 ]
