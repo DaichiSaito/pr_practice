@@ -319,13 +319,13 @@ members: [
       github: "shusaku009"
     }
   },
- {
+  {
     yoshi32: {
       bio: "ぼちぼち頑張ってます", 
       hobby: ["野球", "犬"],
-      github: "fujisawayoshitaka"
-   
-  }, 
+      github: "fujisawayoshitaka" 
+    }
+  },
 ]
 
 ```
