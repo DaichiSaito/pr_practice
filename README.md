@@ -318,6 +318,13 @@ members: [
       hobby: ["野球", "ディズニー"],
       github: "tanamarugit"
     }
+  
+    shu09: {
+      bio: "2022年１２月までに転職するために学習しています", 
+      hobby: ["音楽鑑賞", "ゲーム"],
+      github: "shusaku009"
+    }
+  },
 ]
 
 ```
