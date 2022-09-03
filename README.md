@@ -318,7 +318,6 @@ members: [
       hobby: ["野球", "ディズニー"],
       github: "tanamarugit"
     }
-   
 ]
 
 ```
