@@ -313,7 +313,7 @@ members: [
     }
   },
   {
-  　tanamaru: {
+    tanamaru: {
       bio: "全くの未経験からですが、がんばります！",
       hobby: ["野球", "ディズニー"],
       github: "tanamarugit"
