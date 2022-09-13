@@ -333,6 +333,13 @@ members: [
       github: "fujisawayoshitaka" 
     }
   },
+  {
+    kosuke: {
+      bio: "エンジニアでの就職を目指してます", 
+      hobby: ["筋トレ", "服"],
+      github: "peterdo415" 
+    }
+  },
 ]
 
 ```
