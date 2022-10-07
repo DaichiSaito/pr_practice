@@ -340,6 +340,13 @@ members: [
       github: "peterdo415" 
     }
   },
+  {
+    maru: {
+      bio: "人生でやりたい諸々のことを実現するためにエンジニアになると決めました", 
+      hobby: ["漫画", "ゲーム", "カフェ巡り"],
+      github: "potechi-maru" 
+    }
+  }
 ]
 
 ```
