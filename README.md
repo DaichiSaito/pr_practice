@@ -186,7 +186,7 @@ members: [
       hobby: ["ゲーム", "運動"],
       github: "shu0"
     }
-  },  
+  },
   {
     Minakuchi: {
       bio: “元化学エンジニア・キャリアコンサルタント。現在はカスタマーサクセスやプロダクト作り。お客さんに喜ばれるサービスを作りたいです。”,
@@ -294,20 +294,20 @@ members: [
   },
   {
     doushi: {
-      bio: "Railsエンジニアを目指します！", 
+      bio: "Railsエンジニアを目指します！",
       hobby: ["散歩", "ネット", "食べ歩き"],
       github: "maiyui06020206"
     }
   },
   {
     mai: {
-      bio: "Railsエンジニアを目指して頑張ります！", 
+      bio: "Railsエンジニアを目指して頑張ります！",
       hobby: ["ヨガ", "韓ドラ鑑賞", "ウェイクボード"],
       github: "mai-kobayashi23"
   },
   {
     sarii: {
-      bio: "未経験からエンジニアへの転職を目指しています", 
+      bio: "未経験からエンジニアへの転職を目指しています",
       hobby: ["早起き", "散歩"],
       github: "sarii0213"
     }
@@ -321,30 +321,37 @@ members: [
   },
   {
     shu09: {
-      bio: "2022年１２月までに転職するために学習しています", 
+      bio: "2022年１２月までに転職するために学習しています",
       hobby: ["音楽鑑賞", "ゲーム"],
       github: "shusaku009"
     }
   },
   {
     yoshi32: {
-      bio: "ぼちぼち頑張ってます", 
+      bio: "ぼちぼち頑張ってます",
       hobby: ["野球", "犬"],
-      github: "fujisawayoshitaka" 
+      github: "fujisawayoshitaka"
     }
   },
   {
     kosuke: {
-      bio: "エンジニアでの就職を目指してます", 
+      bio: "エンジニアでの就職を目指してます",
       hobby: ["筋トレ", "服"],
-      github: "peterdo415" 
+      github: "peterdo415"
     }
   },
   {
     maru: {
-      bio: "人生でやりたい諸々のことを実現するためにエンジニアになると決めました", 
+      bio: "人生でやりたい諸々のことを実現するためにエンジニアになると決めました",
       hobby: ["漫画", "ゲーム", "カフェ巡り"],
-      github: "potechi-maru" 
+      github: "potechi-maru"
+    }
+  },
+    {
+    keisuke: {
+      bio: "強強Railsエンジニアになります！",
+      hobby: ["サウナ", "ゴルフ(やりたい)"],
+      github: "k-suke39"
     }
   }
 ]
