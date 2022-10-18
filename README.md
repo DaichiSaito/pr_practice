@@ -347,7 +347,7 @@ members: [
       github: "potechi-maru"
     }
   },
-    {
+  {
     keisuke: {
       bio: "強強Railsエンジニアになります！",
       hobby: ["サウナ", "ゴルフ(やりたい)"],
