@@ -353,6 +353,13 @@ members: [
       hobby: ["サウナ", "ゴルフ(やりたい)"],
       github: "k-suke39"
     }
+  },
+  {
+    krkkr: {
+      bio: "ReactとRailsの勉強をしています。",
+      hobby: ["プログラミング", "散歩"],
+      github: "krkkr"
+    }
   }
 ]
 
