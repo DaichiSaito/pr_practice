@@ -361,6 +361,13 @@ members: [
       github: "krkkr"
     }
   }
+  {
+    Yugo: {
+      bio: "Webマーケター兼Webエンジニアの二刀流を目指してます。",
+      hobby: ["英語", "サウナ"],
+      github: "Yugo-Scott"
+    }
+  }
 ]
 
 ```
