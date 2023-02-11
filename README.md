@@ -367,6 +367,13 @@ members: [
       hobby: ["英語", "サウナ"],
       github: "Yugo-Scott"
     }
+  },
+    {
+    Hajime: {
+      bio: "Railsの学習をしています",
+      hobby: ["映画鑑賞", "スポーツ観戦"],
+      github: "hajimev7"
+    }
   }
 ]
 
