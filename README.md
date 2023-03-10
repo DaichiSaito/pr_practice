@@ -368,7 +368,7 @@ members: [
       github: "Yugo-Scott"
     }
   },
-    {
+  {
     Hajime: {
       bio: "Railsの学習をしています",
       hobby: ["映画鑑賞", "スポーツ観戦"],
