@@ -374,6 +374,13 @@ members: [
       hobby: ["カフェ巡り", "カラオケ"],
       github: "A-Kumada"
     }
+  },
+  {
+    Hajime: {
+      bio: "Railsの学習をしています",
+      hobby: ["映画鑑賞", "スポーツ観戦"],
+      github: "hajimev7"
+    }
   }
 ]
 
