@@ -374,6 +374,13 @@ members: [
       hobby: ["映画鑑賞", "スポーツ観戦"],
       github: "hajimev7"
     }
+  },
+  {
+    DHH: {
+      bio: "Railsの生みの親です",
+      hobby: ["Rails", "レーシング"],
+      github: "dhh"
+    }
   }
 ]
 
