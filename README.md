@@ -388,7 +388,14 @@ members: [
       hobby: ["Rails", "レーシング"],
       github: "dhh"
     }
-  }
+  },
+  {
+    Yamada: {
+      bio: "三度の飯よりプログラミングが好きです",
+      hobby: ["Rails", "プログラミング全般"],
+      github: "yamada"
+    }
+  },
 ]
 
 ```
