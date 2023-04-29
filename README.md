@@ -389,11 +389,12 @@ members: [
       github: "dhh"
     }
   },
+ },
   {
-    Shohei: {
-      bio: "Railsを学習しています",
-      hobby: ["Rails", "漫画"],
-      github: "nuntanunta5153"
+    Yamada: {
+      bio: "三度の飯よりプログラミングが好きです",
+      hobby: ["Rails", "プログラミング全般"],
+      github: "yamada"
     }
   },
 ]
