@@ -376,19 +376,33 @@ members: [
     }
   },
   {
+    azu: {
+      bio: "会社員です。IT系で働いていますが、体系的な知識を身に着けたいです",
+      hobby: ["読書", "愛犬と散歩"],
+      github: "azu-68"
+    }
+  },
+  {
     DHH: {
       bio: "Railsの生みの親です",
       hobby: ["Rails", "レーシング"],
       github: "dhh"
     }
-  }
+  },
   {
     Shohei: {
       bio: "Railsを学習しています",
       hobby: ["Rails", "漫画"],
       github: "nuntanunta5153"
     }
-  }
+  },
+  {
+    Yamada: {
+      bio: "三度の飯よりプログラミングが好きです",
+      hobby: ["Rails", "プログラミング全般"],
+      github: "yamada"
+    }
+  },
 ]
 
 ```
