@@ -396,6 +396,13 @@ members: [
       github: "yamada"
     }
   },
+  {
+    Nishiduka: {
+      bio: "フリーランスのフロントエンドエンジニアです",
+      hobby: ["水泳", "youtube"],
+      github: "underground0930"
+    }
+  }
 ]
 
 ```
