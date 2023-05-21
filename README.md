@@ -402,7 +402,14 @@ members: [
       hobby: ["水泳", "youtube"],
       github: "underground0930"
     }
-  }
+  },
+  {
+    Shohei: {
+      bio: "Railsを学習しています",
+      hobby: ["Rails", "漫画"],
+      github: "nuntanunta5153"
+    }
+  },
 ]
 
 ```
