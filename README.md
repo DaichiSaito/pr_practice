@@ -389,6 +389,7 @@ members: [
       github: "dhh"
     }
   },
+ },
   {
     Yamada: {
       bio: "三度の飯よりプログラミングが好きです",
